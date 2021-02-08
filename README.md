@@ -20,7 +20,10 @@ I am (trying to) using [Conventional Commits 1.0.0](https://www.conventionalcomm
 Version | Description | Completion Status
 ------- | ----------- | -----------------
 0.1 | Setup Laravel using Laravel Breeze to provide the framework and authentication | ✅
-0.2 | The ability to add, edit and remove products | ❌
+0.2 | Style existing pages (from Breeze) | ❌
+0.3 | Add a user profile page allowing the user to update their information and password | ❌
+0.4 | Add roles admin/standard. Add an accounts page allowing admin users to add/remove users and then remove the ability to register | ❌
+x | The ability to add, edit and remove products | ❌
 x | Create the Pantry to store the current quantities of groceries and allow for quantity manipulation | ❌
 x | Add recipes to the system for all meals, so the app can check whether the required ingredients are in stock | ❌
 x | Add a meal planner that can keep track of upcoming meals and determine which ingredients are missing/required | ❌
