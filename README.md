@@ -20,7 +20,7 @@ I am (trying to) using [Conventional Commits 1.0.0](https://www.conventionalcomm
 Version | Description | Completion Status
 ------- | ----------- | -----------------
 0.1 | Setup Laravel using Laravel Breeze to provide the framework and authentication | ✅
-0.2 | Style existing pages (from Breeze) | ❌
+0.2 | Style existing pages (from Breeze) | ✅
 0.3 | Add a user profile page allowing the user to update their information and password | ❌
 0.4 | Add roles admin/standard. Add an accounts page allowing admin users to add/remove users and then remove the ability to register | ❌
 x | The ability to add, edit and remove products | ❌
